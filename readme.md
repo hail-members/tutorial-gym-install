@@ -1,5 +1,5 @@
 
-## 연구실 내 학생들을 위한  gym on mac 101 tutorials
+## 연구실 내 학생들을 위한  gym[atari] tutorials
 
 ## 0. python 버전
 python==3.8
